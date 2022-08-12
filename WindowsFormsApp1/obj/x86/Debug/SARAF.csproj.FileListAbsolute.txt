@@ -62,4 +62,5 @@ C:\Users\MirwaisDoost\source\repos\TeamProject\SARAF\WindowsFormsApp1\obj\x86\De
 C:\Users\MirwaisDoost\source\repos\TeamProject\SARAF\WindowsFormsApp1\obj\x86\Debug\SARAF.csproj.CopyComplete
 C:\Users\MirwaisDoost\source\repos\TeamProject\SARAF\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
 C:\Users\MirwaisDoost\source\repos\TeamProject\SARAF\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
-C:\Users\MirwaisDoost\source\repos\TeamProject\SARAF\WindowsFormsApp1\obj\x86\Debug\SARAF.csprojAssemblyReference.cache
+C:\Users\MirwaisDoost\source\repos\TeamProject\SARAF\WindowsFormsApp1\obj\x86\Debug\SARAF.csproj.AssemblyReference.cache
+C:\Users\MirwaisDoost\source\repos\TeamProject\SARAF\WindowsFormsApp1\obj\x86\Debug\SARAF.csproj.SuggestedBindingRedirects.cache
