@@ -338,7 +338,11 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <dsig:DigestValue>bmUBLZ8KlzY5jDNMrsK/wZiwfSlQmmbyXVxZHRUV4Ng=</dsig:DigestValue>
+=======
+        <dsig:DigestValue>1gp9UykiJd3ZnUxeHq5GNAUMqoxPLF/74Bn16MeW8ac=</dsig:DigestValue>
+>>>>>>> parent of 5f871dc (sql)
 =======
         <dsig:DigestValue>1gp9UykiJd3ZnUxeHq5GNAUMqoxPLF/74Bn16MeW8ac=</dsig:DigestValue>
 >>>>>>> parent of 5f871dc (sql)
