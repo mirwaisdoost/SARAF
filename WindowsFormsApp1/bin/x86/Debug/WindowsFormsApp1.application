@@ -14,7 +14,11 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+<<<<<<< HEAD
         <dsig:DigestValue>KyJ9z0X2zKUKLMK/VmxIfTMdpPd1D3fYGlUMFSubAzc=</dsig:DigestValue>
+=======
+        <dsig:DigestValue>0K23A737RWjvWZO4zSNgN79rly2rEBHL5TQx1P95Lh0=</dsig:DigestValue>
+>>>>>>> parent of 5f871dc (sql)
       </hash>
     </dependentAssembly>
   </dependency>

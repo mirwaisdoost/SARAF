@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         private static string database = "saraf";
         public static string port = "3306";
         private static string uid = "root";
-        private static string pass = "Herat1234";
+        private static string pass = "";
         private static string ssl="none";
         public static MySqlConnection con;
 
