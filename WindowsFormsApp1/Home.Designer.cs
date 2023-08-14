@@ -111,7 +111,7 @@
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(20, 18);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(876, 587);
             this.panel1.TabIndex = 0;
@@ -123,7 +123,7 @@
             this.panel7.Controls.Add(this.lblSaraf);
             this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel7.Location = new System.Drawing.Point(0, 32);
-            this.panel7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel7.Margin = new System.Windows.Forms.Padding(4);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(354, 555);
             this.panel7.TabIndex = 7;
@@ -132,10 +132,10 @@
             // 
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 30.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.label11.Location = new System.Drawing.Point(7, 95);
+            this.label11.Location = new System.Drawing.Point(20, 98);
             this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(336, 78);
+            this.label11.Size = new System.Drawing.Size(308, 75);
             this.label11.TabIndex = 4;
             this.label11.Text = "صراف";
             this.label11.Click += new System.EventHandler(this.Label11_Click);
@@ -146,7 +146,7 @@
             this.panel18.Controls.Add(this.label2);
             this.panel18.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel18.Location = new System.Drawing.Point(0, 513);
-            this.panel18.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel18.Margin = new System.Windows.Forms.Padding(4);
             this.panel18.Name = "panel18";
             this.panel18.Size = new System.Drawing.Size(354, 42);
             this.panel18.TabIndex = 3;
@@ -155,7 +155,7 @@
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(96, 4);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(124, 28);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -176,10 +176,10 @@
             // 
             this.lblSaraf.Font = new System.Drawing.Font("Microsoft Sans Serif", 30.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSaraf.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.lblSaraf.Location = new System.Drawing.Point(4, 31);
+            this.lblSaraf.Location = new System.Drawing.Point(20, 23);
             this.lblSaraf.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSaraf.Name = "lblSaraf";
-            this.lblSaraf.Size = new System.Drawing.Size(339, 63);
+            this.lblSaraf.Size = new System.Drawing.Size(308, 67);
             this.lblSaraf.TabIndex = 2;
             this.lblSaraf.Text = "SARAF";
             // 
@@ -193,7 +193,7 @@
             this.panel3.Controls.Add(this.panel8);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel3.Location = new System.Drawing.Point(354, 32);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(509, 555);
             this.panel3.TabIndex = 6;
@@ -204,7 +204,7 @@
             this.pnlExchange.Controls.Add(this.panel10);
             this.pnlExchange.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlExchange.Location = new System.Drawing.Point(0, 283);
-            this.pnlExchange.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pnlExchange.Margin = new System.Windows.Forms.Padding(4);
             this.pnlExchange.Name = "pnlExchange";
             this.pnlExchange.Size = new System.Drawing.Size(509, 272);
             this.pnlExchange.TabIndex = 12;
@@ -218,7 +218,7 @@
             this.panel11.Controls.Add(this.panel15);
             this.panel11.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel11.Location = new System.Drawing.Point(0, 0);
-            this.panel11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel11.Margin = new System.Windows.Forms.Padding(4);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(509, 260);
             this.panel11.TabIndex = 4;
@@ -255,7 +255,7 @@
             this.dgvCurrency.EnableHeadersVisualStyles = false;
             this.dgvCurrency.GridColor = System.Drawing.Color.Lavender;
             this.dgvCurrency.Location = new System.Drawing.Point(3, 25);
-            this.dgvCurrency.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvCurrency.Margin = new System.Windows.Forms.Padding(4);
             this.dgvCurrency.MultiSelect = false;
             this.dgvCurrency.Name = "dgvCurrency";
             this.dgvCurrency.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
@@ -281,7 +281,7 @@
             this.panel12.BackColor = System.Drawing.Color.WhiteSmoke;
             this.panel12.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel12.Location = new System.Drawing.Point(506, 25);
-            this.panel12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel12.Margin = new System.Windows.Forms.Padding(4);
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(3, 233);
             this.panel12.TabIndex = 3;
@@ -291,7 +291,7 @@
             this.panel13.BackColor = System.Drawing.Color.WhiteSmoke;
             this.panel13.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel13.Location = new System.Drawing.Point(0, 25);
-            this.panel13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel13.Margin = new System.Windows.Forms.Padding(4);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(3, 233);
             this.panel13.TabIndex = 2;
@@ -301,7 +301,7 @@
             this.panel14.BackColor = System.Drawing.Color.WhiteSmoke;
             this.panel14.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel14.Location = new System.Drawing.Point(0, 258);
-            this.panel14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel14.Margin = new System.Windows.Forms.Padding(4);
             this.panel14.Name = "panel14";
             this.panel14.Size = new System.Drawing.Size(509, 2);
             this.panel14.TabIndex = 1;
@@ -313,7 +313,7 @@
             this.panel15.Controls.Add(this.panel17);
             this.panel15.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel15.Location = new System.Drawing.Point(0, 0);
-            this.panel15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel15.Margin = new System.Windows.Forms.Padding(4);
             this.panel15.Name = "panel15";
             this.panel15.Size = new System.Drawing.Size(509, 25);
             this.panel15.TabIndex = 0;
@@ -416,7 +416,7 @@
             // 
             this.panel10.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel10.Location = new System.Drawing.Point(0, 260);
-            this.panel10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel10.Margin = new System.Windows.Forms.Padding(4);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(509, 12);
             this.panel10.TabIndex = 1;
@@ -428,7 +428,7 @@
             this.panel5.Controls.Add(this.label5);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel5.Location = new System.Drawing.Point(0, 263);
-            this.panel5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel5.Margin = new System.Windows.Forms.Padding(4);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(509, 20);
             this.panel5.TabIndex = 9;
@@ -463,7 +463,7 @@
             // 
             this.panel9.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel9.Location = new System.Drawing.Point(0, 257);
-            this.panel9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel9.Margin = new System.Windows.Forms.Padding(4);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(509, 6);
             this.panel9.TabIndex = 0;
@@ -483,7 +483,7 @@
             this.pnlUserDetails.Controls.Add(this.label6);
             this.pnlUserDetails.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlUserDetails.Location = new System.Drawing.Point(0, 88);
-            this.pnlUserDetails.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pnlUserDetails.Margin = new System.Windows.Forms.Padding(4);
             this.pnlUserDetails.Name = "pnlUserDetails";
             this.pnlUserDetails.Size = new System.Drawing.Size(509, 169);
             this.pnlUserDetails.TabIndex = 11;
@@ -595,7 +595,7 @@
             this.panel6.Controls.Add(this.label4);
             this.panel6.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel6.Location = new System.Drawing.Point(0, 68);
-            this.panel6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel6.Margin = new System.Windows.Forms.Padding(4);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(509, 20);
             this.panel6.TabIndex = 8;
@@ -633,7 +633,7 @@
             this.panel8.Controls.Add(this.label3);
             this.panel8.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel8.Location = new System.Drawing.Point(0, 0);
-            this.panel8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel8.Margin = new System.Windows.Forms.Padding(4);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(509, 68);
             this.panel8.TabIndex = 10;
@@ -641,10 +641,10 @@
             // lblName
             // 
             this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(131, 21);
+            this.lblName.Location = new System.Drawing.Point(142, 21);
             this.lblName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(371, 25);
+            this.lblName.Size = new System.Drawing.Size(360, 25);
             this.lblName.TabIndex = 9;
             // 
             // label3
@@ -662,7 +662,7 @@
             // 
             this.panel4.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel4.Location = new System.Drawing.Point(863, 32);
-            this.panel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(13, 555);
             this.panel4.TabIndex = 5;
@@ -673,7 +673,7 @@
             this.panel2.Controls.Add(this.label1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(876, 32);
             this.panel2.TabIndex = 0;
@@ -689,6 +689,7 @@
             this.label1.Size = new System.Drawing.Size(133, 32);
             this.label1.TabIndex = 0;
             this.label1.Text = "Home";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // sarafDB
             // 
@@ -703,7 +704,7 @@
             this.ClientSize = new System.Drawing.Size(916, 623);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Home";
             this.Padding = new System.Windows.Forms.Padding(20, 18, 20, 18);
             this.Text = "Home";

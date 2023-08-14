@@ -245,5 +245,10 @@ namespace WindowsFormsApp1
                 lblCollaps.Text = "-";
             }
         }
+
+        private void crystalReportViewer1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

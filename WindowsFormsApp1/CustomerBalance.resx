@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="sarafDB.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
+    <value>217, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0CAYAAADL1t+KAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAHF9JREFUeF7t3Xv0ffd853Hi1pp20S6MBh3SVN0HbWkxWurSFlGmdUuxOnWp0NUl
+        wQAADsEBuJFr7QAAHF9JREFUeF7t3Xv0ffd853Hi1pp20S6MBh3SVN0HbWkxWurSFlGmdUuxOnWp0NUl
         ehFmdYQi0lWirVhW0VFmpmhdVokOidsUEW1pUDQ6REhQd21KDTOv95CZiE+S3+/z++x9Puecx2Ot5z/+
         ifU9e3/ev7PP3p99GQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAffXc6QpKkDXa9
         dOXEQbpC+oV0Rvpq+t+SJE3Quek56daJS3Gz9Lep9YeUJGmGvpZelq6eaLhj+qfU+uNJkjRbH0o3SlzI
