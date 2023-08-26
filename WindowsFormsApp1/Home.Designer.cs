@@ -36,6 +36,7 @@
             this.panel7 = new System.Windows.Forms.Panel();
             this.label11 = new System.Windows.Forms.Label();
             this.panel18 = new System.Windows.Forms.Panel();
+            this.label12 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.lblSaraf = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
@@ -80,7 +81,6 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.sarafDB = new WindowsFormsApp1.sarafDB();
-            this.label12 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel18.SuspendLayout();
@@ -149,6 +149,16 @@
             this.panel18.Name = "panel18";
             this.panel18.Size = new System.Drawing.Size(354, 42);
             this.panel18.TabIndex = 3;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(89, 12);
+            this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(130, 16);
+            this.label12.TabIndex = 6;
+            this.label12.Text = "Mirwais Doost (2019)";
             // 
             // label2
             // 
@@ -683,16 +693,6 @@
             // 
             this.sarafDB.DataSetName = "sarafDB";
             this.sarafDB.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(89, 12);
-            this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(130, 16);
-            this.label12.TabIndex = 6;
-            this.label12.Text = "Mirwais Doost (2019)";
             // 
             // Home
             // 
