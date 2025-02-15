@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirwais\\source\\repos\\SARAF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2856FA01-4BA6-4EA5-9208-BF90DD8B5026}|WindowsFormsApp1\\SARAF.csproj|c:\\users\\mirwais\\source\\repos\\saraf\\windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2856FA01-4BA6-4EA5-9208-BF90DD8B5026}|WindowsFormsApp1\\SARAF.csproj|solutionrelative:windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mirwais\\source\\repos\\SARAF\\WindowsFormsApp1\\Home.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Home.cs",
+              "ToolTip": "C:\\Users\\mirwais\\source\\repos\\SARAF\\WindowsFormsApp1\\Home.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-14T09:45:08.145Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
